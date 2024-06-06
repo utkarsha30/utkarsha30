@@ -1,4 +1,4 @@
-# Hi there, I'm Utskarha Kshirsagar 👋
+# Hi there, I'm Utkarsha Kshirsagar 👋
 
 I'm a Full-Stack Developer based in Rochester, NY, currently pursuing a degree in Information Technology and Analytics at the Rochester Institute of Technology. When I'm not studying, I work as a Software Engineer at CAT Lab NTID, creating accessible web solutions.
 
