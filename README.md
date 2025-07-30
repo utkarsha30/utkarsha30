@@ -28,6 +28,14 @@ I leverage a wide range of tools and technologies to build comprehensive, full-s
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
+## 🏆 Certifications
+
+[![GitHub Copilot Certificate](https://img.shields.io/badge/Certification-GitHub%20Copilot-blue?logo=github)](https://www.linkedin.com/learning/certificates/44a10b2030b8810950e6ceae31c6412e5f7d363c0d83a94f698f438568aa1066?trk=share_certificate)
+ 
+**Career Essentials in GitHub Copilot Professional Certificate**
+  - Issued by: GitHub & LinkedIn Learning
+  - Completed: July 2025
+
 
 ## Explore My Work 📊
 - 🚀 **Website:** [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-website-3u4y.onrender.com)
